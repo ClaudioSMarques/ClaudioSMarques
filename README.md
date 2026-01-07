@@ -7,7 +7,6 @@ computer engineering student
 I am a computer engineering student with an interest in Java backend, QA, and databases.
 
 * 🌍  I'm based in Brasil
-* 🖥️  See my portfolio at [Java Exercises](http://github.com/ClaudioSMarques/JavaProjects)
 * 🧠  I'm currently learning Java and QA
 
 <p align="left">
